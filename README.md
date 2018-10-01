@@ -8,7 +8,7 @@ Utilities for 11-785 @ CMU
 You can simply install the python package from this repository.
 
 ```bash
-$ git clone https://github.com/rbrigden/cmudl
+$ git clone https://github.com/cmudeeplearning11785/cmudl
 $ cd cmudl
 $ pip install -e .
 ```
