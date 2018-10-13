@@ -21,7 +21,7 @@ To process your hw2p2 predictions for submission to the Kaggle competition. This
 serialized ndarray (npy format) with shape (num_predictions,).
 
 ```
-$ bin/cmudl hw2p2 -s /path/to/scores.npy
+$ cmudl hw2p2 -s /path/to/scores.npy
 ```
 
 This command will send your predictions to our server and we will return a csv file that will be saved in the current
